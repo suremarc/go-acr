@@ -1,0 +1,24 @@
+table
+table
+field
+template
+xref
+
+field
+table.table
+field.field
+field.table
+field.ident
+template.template
+template.pattern
+template.sep
+xref.xref
+xref.table
+
+template	pattern	sep
+field.field	table.ident	.
+
+xref	table
+field.table	table
+template.template	field
+xref.xred	field
