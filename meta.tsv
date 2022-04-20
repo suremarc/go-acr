@@ -21,4 +21,4 @@ field.field	table.ident	.
 xref	table
 field.table	table
 template.template	field
-xref.xred	field
+xref.xref	field
